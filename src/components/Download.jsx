@@ -13,7 +13,7 @@ const Download = () => {
           <h1 className={`${styles.h1Text} ${styles.blackText}`}>Download the Source Code</h1>
           <p className={`${styles.pText} ${styles.blackText}`}>Get the full source on GitHub</p>
         </div>
-        <button className={styles.btnPrimary} onClick={() => window.open("https://master--dynamic-brioche-1837d9.netlify.app/", "_blank")}>Source Code</button>
+        <button className={styles.btnPrimary} onClick={() => window.open("https://github.com/raphaelbusquet/NFTMarketplace---ReactNative/", "_blank")}>Source Code</button>
         <div className={styles.flexCenter}>
           <Image 
             src={assets.scene}
