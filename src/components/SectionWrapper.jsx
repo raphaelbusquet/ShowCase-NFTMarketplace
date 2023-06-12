@@ -22,7 +22,7 @@ const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, revers
           {showBtn && (
             <Button 
               assetUrl={assets.expo}
-              link="deplyed nft marketplace rn"
+              link="https://github.com/raphaelbusquet/NFTMarketplace---ReactNative"
             />
           )}
         </div>
